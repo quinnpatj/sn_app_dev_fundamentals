@@ -8,3 +8,6 @@ Lab work from ServiceNow Application Development Fundamentals course modules
 * 4.1 - Working with fields and views
 * 4.2a - Create a UI Policy
 * 4.2b - Scripting
+* 4.3 - Commit changes and publish application
+* 5.1 - Configure application security
+* 5.2 - Set application access
